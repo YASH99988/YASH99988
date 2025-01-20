@@ -21,7 +21,7 @@
 
 
 
-![logo](https://github.com/codecraft-sanju/codecraft-sanju/blob/main/bannergit.png)
+
 <h1 align="center">Hi 👋, I'm Sanjay choudhary</h1>
 <h3 align="center">🚀 A Passionate Full-Stack Developer from India</h3>
 
